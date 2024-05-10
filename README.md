@@ -14,7 +14,6 @@ Design and deploy a robust home NAS server solution to centralize and securely s
 - Learn how to configure remote access to the NAS server.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - TrueNas Software.
 - Tailscale VPN.
